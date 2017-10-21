@@ -1,0 +1,13 @@
+body{
+  font-family: 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light', arial, sans-serif, 'Droid Sans Fallback';
+  background: #222;
+  -webkit-tap-highlight-color: transparent;
+  color: #fff;
+  line-height: 1;
+}
+.loading-container{
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
